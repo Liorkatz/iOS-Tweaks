@@ -1,0 +1,9 @@
+{
+	entry = {
+		bundle = UnAlarm;
+		cell = PSLinkCell;
+		icon = "UnAlarm.png";
+		isController = YES;
+		label = UnAlarm;
+	};
+}

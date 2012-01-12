@@ -1,0 +1,9 @@
+Package: com.istopped.unalarm
+Name: UnAlarm
+Depends: mobilesubstrate
+Version: 0.3
+Architecture: iphoneos-arm
+Description: LULZ
+Maintainer: iStopped
+Author: iStopped
+Section: Tweaks
