@@ -1,7 +1,7 @@
 Package: com.istopped.nil5
 Name: No Icon Label for iOS5
 Depends: mobilesubstrate
-Version: 0.0.1
+Version: 0.1
 Architecture: iphoneos-arm
 Description: An awesome MobileSubstrate tweak!
 Maintainer: iStopped
