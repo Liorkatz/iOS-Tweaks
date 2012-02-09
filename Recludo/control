@@ -1,0 +1,9 @@
+Package: com.istopped.recludo
+Name: Recludo
+Depends: mobilesubstrate, firmware (>= 5.0)
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: iStopped
+Author: iStopped
+Section: Tweaks
